@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Our website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is our project overview\nWe created this in 20 minutes"
+  },
+  {
+    "objectID": "analysis_report.html",
+    "href": "analysis_report.html",
+    "title": "analysis_report",
+    "section": "",
+    "text": "Here would be our analysis report"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Our team members are Lauri, Bety and Morgane"
+  },
+  {
+    "objectID": "data_documentation.html",
+    "href": "data_documentation.html",
+    "title": "Data documentation",
+    "section": "",
+    "text": "This page contains data documentation"
   }
 ]
