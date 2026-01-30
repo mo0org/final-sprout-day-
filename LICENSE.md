@@ -1,5 +1,6 @@
 # MIT License
-Copyright (c) 2026 lauri, bety and morg
+
+Copyright (c) 2026 lauri,bety,morg
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
